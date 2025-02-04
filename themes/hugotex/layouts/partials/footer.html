@@ -1,0 +1,27 @@
+<footer>
+  <div class="container">
+    <p class="credits copyright">
+      <p class="credits theme-by">
+        {{ if .Site.Params.Legal }}
+        <a href="{{ .Site.BaseURL }}legal/">{{ .Site.Params.Legal }}</a>
+        <br>
+        {{ end }}
+        {{ if .Site.Params.PoweredBy }}
+        Powered By <a href="https://gohugo.io">Hugo</a>&nbsp;/&nbsp;Theme&nbsp;<a href="https://github.com/kaisugi/HugoTeX">HugoTeX</a>
+        <br>
+        {{ end }}
+        {{ if .Site.Title }}
+        design oparty na <a href="https://github.com/kaisugi/HugoTeX">HugoTeX</a>, edycje: <a href="https://www.linkedin.com/in/ptrwrbl/">Piotr Wróbel</a> <br>
+        {{ end }}
+        2025
+        <a href="{{ .Site.BaseURL }}en/">(english)</a>
+      </p>
+  </div>
+</footer>
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
+<script src="//cdn.jsdelivr.net/npm/@xiee/utils/js/math-code.min.js" defer></script>
+<script src="//cdn.jsdelivr.net/npm/katex/dist/katex.min.js" defer></script>
+<script src="//cdn.jsdelivr.net/npm/katex/dist/contrib/auto-render.min.js" defer></script>
+<script src="//cdn.jsdelivr.net/npm/@xiee/utils/js/render-katex.js" defer></script>
+
+<script src="//cdn.jsdelivr.net/npm/@xiee/utils/js/center-img.min.js" defer></script>

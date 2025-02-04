@@ -1,0 +1,37 @@
+theme = 'hugotex'
+title = "Tomasz Dudek"
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+
+[pagination]
+  pagerSize = 3
+
+[Params.author]
+  name = ""
+  abstract = """
+
+Pasjonat matematyki i doświadczony korepetytor. Poza umiejętnościami w zakresie nauczania matematyki, posiadam silne podstawy teoretyczne – w szczególności w zakresie topologii i geometrii."""
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "paraiso-dark"
+
+[Params]
+  darkmode = true
+  math = true
