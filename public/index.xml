@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>pl on Tomasz Dudek</title>
+    <title>Tomasz Dudek</title>
     <link>//localhost:1313/</link>
-    <description>Recent content in pl on Tomasz Dudek</description>
+    <description>Recent content on Tomasz Dudek</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
+      <title>Tomasz Dudek</title>
       <link>//localhost:1313/en/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/en/</guid>
-      <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;&gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;&#xA;&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/yuin/goldmark&#34;&gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/alecthomas/chroma&#34;&gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/muesli/smartcrop&#34;&gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;</description>
+      <description>&lt;center&gt;&lt;span style=&#34;display:block; margin-top:-50px;&#34;&gt; &lt;a href=&#34;https://www.linkedin.com/in/tszdudek/&#34;&gt;LinkedIn&lt;/a&gt; &amp;nbsp; | &amp;nbsp; &lt;a href=&#34;https://www.facebook.com/tomekdudeq&#34;&gt; Facebook &lt;/a&gt;  &amp;nbsp; | &amp;nbsp; &lt;a href=&#34;mailto:tomdudek99@gmail.com&#34;&gt; Mail me! &lt;/a&gt; &lt;/span|&gt; &lt;/center&gt;&#xD;&#xA;$$\mathrm{Hom}(Y \otimes X,Z) \cong \mathrm{Hom}(Y,\mathrm{Hom}(X,Z))$$&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;jagiellonian-university-2024----currently&#34;&gt;Jagiellonian University (2024 &amp;ndash; currently)&lt;/h4&gt;&#xA;&lt;p&gt;Degree: &lt;strong&gt;PhD in Mathematics&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;PhD Topic: Invariant Structures on Homogeneous Spaces of Lie Groups.&lt;/p&gt;&#xA;&lt;hr style=&#34;border:2px solid gray&#34;&gt;&#xD;&#xA;&lt;h4 id=&#34;jagiellonian-university-2021----2024&#34;&gt;Jagiellonian University (2021 &amp;ndash; 2024)&lt;/h4&gt;&#xA;&lt;p&gt;Degree: &lt;strong&gt;MSc in Mathematics&lt;/strong&gt;&lt;br&gt;&#xA;Specialty: &lt;strong&gt;Pure Mathematics&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Final grade: &lt;em&gt;very good (5.0)&lt;/em&gt; &lt;br&gt;&#xA;Recipient of Rector&amp;rsquo;s Scholarship in academic year 2021/2022.&lt;/p&gt;&#xA;&lt;p&gt;Member of the Didactics Committee of the Mathematics Insitute in the academic year 2023/2024.&#xA;Secretary of the Zaremba Society of Mathematicians-Students in the academic year 2023/2024.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

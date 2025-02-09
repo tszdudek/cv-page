@@ -22,15 +22,24 @@
           <h1>{{ with $title }}{{.}}{{ else }}<br/>{{ end }}</h1>
           {{ if .IsHome }}
             <p class="author">{{ with .Site.Params.Author.name }}{{.}}{{ else }}<br/>{{ end }}</p>
-
             {{ if .Site.Params.Author.abstract }}
               <div class="abstract">
-                <h5>Słówko o mnie</h5>
+                <h5>Słówko o mnie <a href="{{ .Site.BaseURL }}en/">(EN)</a> </h5>
                 <p>
                   {{ .Site.Params.Author.abstract }}
                 </p>
               </div>
             {{ end }}
+          {{ else }}
+          <p class="author">{{ with .Site.Params.Author.name }}{{.}}{{ else }}<br/>{{ end }}</p>
+          {{ if .Site.Params.Author.abstracten }}
+            <div class="abstract">
+              <h5>Introduction <a href="{{ .Site.BaseURL }}"> (PL) </a></h5>
+              <p>
+                {{ .Site.Params.Author.abstracten }}
+              </p>
+            </div>
+          {{ end }}
           {{ end }}
         {{ end }}
       </div>

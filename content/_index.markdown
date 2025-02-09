@@ -1,8 +1,7 @@
----
-title: pl
----
 
-$$\ldots \to \mathrm{H}^n(X,\;\mathbb{Z}) \to \mathrm{H}^n(U,\;\mathbb{Z})\oplus \mathrm{H}^n(V,\; \mathbb{Z}) \to \mathrm{H}^n(U\cap V,\;\mathbb{Z}) \to \mathrm{H}^{n+1}(X,\;\mathbb{Z}) \to \ldots$$
+<center><span style="display:block; margin-top:-20px;"> <a href="https://www.linkedin.com/in/tszdudek/">LinkedIn</a> &nbsp; | &nbsp; <a href="https://www.facebook.com/tomekdudeq"> Facebook </a>  &nbsp; | &nbsp; <a href="mailto:tomdudek99@gmail.com"> Wyślij mi maila! </a> </span> </center>
+
+$$\mathrm{Hom}(Y \otimes X,Z) \cong \mathrm{Hom}(Y,\mathrm{Hom}(X,Z))$$
 
 ## Wykształcenie
 ___
@@ -10,7 +9,7 @@ ___
 #### Uniwersytet Jagielloński (2024 -- obecnie)
 Kierunek: **Matematyka (szkoła doktorska)**
 
-Tematyka doktoratu: struktury niezmiennicze na przestrzeniach jednorodnych grup Liego.
+Tematyka doktoratu: Struktury niezmiennicze na przestrzeniach jednorodnych grup Liego.
 
 <hr style="border:2px solid gray">
 
@@ -24,7 +23,7 @@ Beneficjent stypendium rektora w roku akademickim 2021/2022.
 Członek Komisji Dydaktyki Instytutu Matematyki w roku akademickim 2023/2024.  
 Sekretarz Koła Matematyków Studentów w roku akademickim 2023/2024.
 
-Poza głównym tokiem studiów, realizowałem również rozszerzenie pedagogiczne.
+Poza głównym tokiem studiów realizowałem również rozszerzenie pedagogiczne.
 
 <hr style="border:2px solid gray">
 
@@ -41,13 +40,14 @@ $$\int_{\partial M}\omega = \int_M d\omega$$
 
 ___
 
-Dydaktyką matematyki zajmuję się zawodowo od prawie czterech lat. W tym czasie, miałem okazję m.in.:
-- pomóc przygotować się uczniowi do egzaminów wstępnych na włoską uczelnię,
-- przygotowywać do konkursów (konkurs kuratoryjny, Olimpiada Matematyczna),
-- prowadzić intensywne kursy maturalne,
-- współpracować z dziećmi ze Szkoły w Chmurze,
-- przygotowywać do matury międzynarodowej (IB AA SL/HL),
-- prowadzić kółka matematyczne.
+Dydaktyką matematyki zajmuję się zawodowo od prawie czterech lat. W tym czasie miałem okazję m.in.:
+
+- Pomóc uczniowi w przygotowaniach do egzaminów wstępnych na włoską uczelnię.
+- Przygotowywać uczniów do konkursów (Konkurs Kuratoryjny, Olimpiada Matematyczna).
+- Prowadzić intensywne kursy maturalne.
+- Współpracować z dziećmi w ramach Szkoły w Chmurze.
+- Przygotowywać do matury międzynarodowej (IB AA SL/HL).
+- Prowadzić kółka matematyczne.
 
 #### Matplaneta (10.2023 -- obecnie)
 Prowadzenie zajęć w metodyce Math Circle dla uczniów szkoły podstawowej.
@@ -85,14 +85,14 @@ $$\chi(M) = \sum_{k=0}^n \dim \mathrm{H}^n(M,\; \mathbb{Z})$$
 **Aktualne:**
  - [Liga Matematyczna I LO w Katowicach](https://liga.kosciuszko.pl/),
  - [Kółko Matematyczne Uniwersytetu Jagiellońskiego](https://im.uj.edu.pl/du/kolka-matematyczne),
- - organizuję nieoficjalne seminarium o topologicznej teorii pola.
+ - Nieoficjalne seminarium o topologicznej teorii pola.
 
 **Pozostałe:**
- - organizacja [Ogólnopolskiej Sesji Studentów Matematyki](https://kmsuj.matinf.uj.edu.pl/ossm/) oraz [Międzynarodowych Warsztatów dla Młodych Matematyków](https://kmsuj.matinf.uj.edu.pl/workshop/pl/),
- - [Dni Wydziału WMiI UJ 2024](https://dw.matinf.uj.edu.pl/) -- prowadzenie warsztatu nt. geometrii nieeuklidesowej,
- - [Konkurs Matematyczny *"W Świecie Matematyki"* im. prof. Włodzimierza Krysickiego 2024](https://im.p.lodz.pl/konkursy/konkurs-matematyczny-w-swiecie-matematyki-imienia-profesora-wlodzimierza-krysickiego) -- wygłosiłem referat popularnonaukowy o uogólnianiu w matematyce,
- - pomoc przy organizacji [Jagiellońskiego Turnieju Matematycznego](https://jtm.matinf.uj.edu.pl/).
- - prowadzenie stoiska matematyków na [Krakowskim Festiwalu Nauki i Sztuki  2024](https://fnis.krakow.pl/).
+ - Organizacja [Ogólnopolskiej Sesji Studentów Matematyki](https://kmsuj.matinf.uj.edu.pl/ossm/) oraz [Międzynarodowych Warsztatów dla Młodych Matematyków](https://kmsuj.matinf.uj.edu.pl/workshop/pl/),
+ - Prowadzenie warsztatu na temat geometrii nieeuklidesowej podczas [Dni Wydziału WMiI UJ 2024](https://dw.matinf.uj.edu.pl/),
+ - Wygłoszenie referatu popularnonaukowego o uogólnianiu w matematyce podczas [Konkursu Matematycznego *"W Świecie Matematyki"* im. prof. Włodzimierza Krysickiego 2024](https://im.p.lodz.pl/konkursy/konkurs-matematyczny-w-swiecie-matematyki-imienia-profesora-wlodzimierza-krysickiego),
+ - Pomoc przy organizacji [Jagiellońskiego Turnieju Matematycznego](https://jtm.matinf.uj.edu.pl/),
+ - Prowadzenie stoiska matematyków na [Krakowskim Festiwalu Nauki i Sztuki  2024](https://fnis.krakow.pl/).
 
 <hr style="border:2px solid gray">
 
@@ -110,12 +110,12 @@ $$\chi(M) = \sum_{k=0}^n \dim \mathrm{H}^n(M,\; \mathbb{Z})$$
  - Udział w projekcie [*Stan Młodych 2023*](https://waznesprawy.org/stanmlodych/),
  - Udział w projekcie [*BORNinEU*](https://geremek.pl/program/born-in-eu/).
 
-$$E^{pq}_1 = \left(\mathrm{H}^q\left(X, \Omega^p\right), \;\partial\right) \Rightarrow H^{p+q}(X,\Omega^\bullet)$$
+$$E^{pq}_1 = \left(\mathrm{H}^q\left(X, \Omega^p\right), \:\partial\right) \Rightarrow H^{p+q}(X,\Omega^\bullet)$$
 
 ## Umiejętności
 ---
 
-Mój zestaw umiejętności to przede wszystkim merytoryka w zakresie matematyki oraz wysoko rozwinięte umiejętności miękkie. W zakresie bardziej technicznym, wymienić mogę m.in.
+Mój zestaw umiejętności to przede wszystkim merytoryka w zakresie matematyki oraz wysoko rozwinięte umiejętności miękkie. W zakresie bardziej technicznym mogę wymienić m.in.:
 
   <br>
 
@@ -142,6 +142,6 @@ Mój zestaw umiejętności to przede wszystkim merytoryka w zakresie matematyki 
   </tr></thead>
 </table>
 
-Poza tym -- czego nie może zabraknąć w żadnym szanującym się CV -- znam *angielski w stopniu C1* oraz posiadam prawo jazdy kat. B.
+Poza tym –- czego nie może zabraknąć w żadnym szanującym się CV –- znam angielski w stopniu C1 oraz posiadam prawo jazdy kat. B.
 
-$$\ldots \to \pi_n(\mathbb{S}^1) \to \pi_n(\mathbb{S}^3) \to \pi_n(\mathbb{S}^2) \to \pi_{n-1}(\mathbb{S}^1) \to \ldots$$
+$$\pi_3(\mathbb{S}^2) = \mathbb{Z}$$

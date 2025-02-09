@@ -10,9 +10,8 @@ footnoteReturnLinkContents = "^"
 
 [Params.author]
   name = ""
-  abstract = """
-
-Pasjonat matematyki i doświadczony korepetytor. Poza umiejętnościami w zakresie nauczania matematyki, posiadam silne podstawy teoretyczne – w szczególności w zakresie topologii i geometrii."""
+  abstract = "Pasjonat matematyki i doświadczony korepetytor. Poza umiejętnościami w zakresie nauczania matematyki, posiadam silne podstawy teoretyczne – w szczególności w zakresie topologii i geometrii."
+  abstracten = "A mathematics enthusiast and experienced tutor. In addition to my teaching skills in mathematics, I have a strong theoretical foundation, particularly in topology and geometry."
 
 [taxonomies]
   category = "categories"
