@@ -1,5 +1,5 @@
 
-<center><span style="display:block; margin-top:-20px;"> <a href="https://www.linkedin.com/in/tszdudek/">LinkedIn</a> &nbsp; | &nbsp; <a href="https://www.facebook.com/tomekdudeq"> Facebook </a>  &nbsp; | &nbsp; <a href="mailto:tomdudek99@gmail.com"> Wyślij mi maila! </a> </span> </center>
+<center><span style="display:block; margin-top:-20px;"> <a href="https://www.linkedin.com/in/tszdudek/">LinkedIn</a> &nbsp; | &nbsp; <a href="https://www.facebook.com/tomekdudeq"> Facebook</a>  &nbsp; | &nbsp; <a href="mailto:tomdudek99@gmail.com">Wyślij mi maila!</a> </span> </center>
 
 $$\mathrm{Hom}(Y \otimes X,Z) \cong \mathrm{Hom}(Y,\mathrm{Hom}(X,Z))$$
 
@@ -142,6 +142,6 @@ Mój zestaw umiejętności to przede wszystkim merytoryka w zakresie matematyki 
   </tr></thead>
 </table>
 
-Poza tym –- czego nie może zabraknąć w żadnym szanującym się CV –- znam angielski w stopniu C1 oraz posiadam prawo jazdy kat. B.
+Poza tym – czego nie może zabraknąć w żadnym szanującym się CV – znam angielski w stopniu C1 oraz posiadam prawo jazdy kat. B.
 
 $$\pi_3(\mathbb{S}^2) = \mathbb{Z}$$

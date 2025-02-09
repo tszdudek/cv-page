@@ -3,7 +3,7 @@
 title: Tomasz Dudek
 ---
 
-<center><span style="display:block; margin-top:-50px;"> <a href="https://www.linkedin.com/in/tszdudek/">LinkedIn</a> &nbsp; | &nbsp; <a href="https://www.facebook.com/tomekdudeq"> Facebook </a>  &nbsp; | &nbsp; <a href="mailto:tomdudek99@gmail.com"> Mail me! </a> </span|> </center>
+<center><span style="display:block; margin-top:-50px;"> <a href="https://www.linkedin.com/in/tszdudek/">LinkedIn</a> &nbsp; | &nbsp; <a href="https://www.facebook.com/tomekdudeq"> Facebook</a>  &nbsp; | &nbsp; <a href="mailto:tomdudek99@gmail.com">Mail me!</a> </span|> </center>
 
 $$\mathrm{Hom}(Y \otimes X,Z) \cong \mathrm{Hom}(Y,\mathrm{Hom}(X,Z))$$
 
